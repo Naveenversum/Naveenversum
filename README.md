@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Naveen! 👋
 
-<!--
-**Naveenversum/Naveenversum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building my career in Data Analytics, with a strong interest in transforming raw data into meaningful insights that support business decision-making.
+
+🛠️ Technical Skills
+
+Microsoft Excel: Data Cleaning, Pivot Tables, Lookup Functions, Dashboards
+
+SQL: Queries, Joins, Subqueries, CTEs, Window Functions
+
+Python: Pandas, NumPy, Matplotlib
+
+Power BI: Data Visualization, Data Modeling, DAX, Interactive Dashboards
+
+📊 Data Analytics Projects
+
+I am developing practical projects to demonstrate my analytical and technical skills.
+
+Excel Data Analysis Projects
+
+SQL Business Analysis Projects
+
+Python Exploratory Data Analysis
+
+Power BI Interactive Dashboards
+
+🎯 Career Objective
+
+To leverage data analytics skills to identify trends, solve business problems, and support data-driven decisions.
+
+🤝 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/naveen-kumar-090492167/
+
+GitHub: https://github.com/Naveenversum
+
+⭐ Thank you for visiting my GitHub profile!
