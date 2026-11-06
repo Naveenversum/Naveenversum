@@ -20,13 +20,10 @@ Power BI: Data Visualization, Data Modeling, DAX, Interactive Dashboards
 
 I am developing practical projects to demonstrate my analytical and technical skills.
 
-Excel Data Analysis Projects
-
-SQL Business Analysis Projects
-
-Python Exploratory Data Analysis
-
-Power BI Interactive Dashboards
+1. **Excel Sales Dashboard** – [View Project](https://github.com/Naveenversum/Excel_Sales_Dashboard)
+2. **SQL Server Sales Analysis** – [View Project](https://github.com/Naveenversum/SQL_Server_Sales_Analysis)
+3. **Python Data Analysis** – [View Project](https://github.com/Naveenversum/Python_Data_Analysis)
+4. **Power BI Sales Dashboard** – [View Project](https://github.com/Naveenversum/Powerbi_Sales_Dashboard)
 
 🎯 Career Objective
 
